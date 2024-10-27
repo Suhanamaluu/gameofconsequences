@@ -84,7 +84,7 @@ For Hardware:
 *Explain what the video demonstrates*
 
 # Additional Demos
-[https://suhanamaluu.github.io/useless/]
+[https://vercel.com/api/toolbar/link/uselessprojectsgame.vercel.app?via=project-dashboard-alias-list&p=1&page=/]
 
 ## Team Contributions
 - [Vivek]: [Javascript , full idea execution]
